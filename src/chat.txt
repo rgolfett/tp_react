@@ -1,0 +1,7 @@
+
+Historique des messages -> stockés dans la database
+
+
+Limite de taille des messages?
+Pieces jointes? 
+Affichage des messages : ?
